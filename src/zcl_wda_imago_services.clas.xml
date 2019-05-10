@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_WDA_IMAGO_SERVICES</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>WDA Imago Services</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WDA_IMAGO_SERVICES</CLSNAME>
+     <CMPNAME>BUILD_URL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Build URL for WDA</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WDA_IMAGO_SERVICES</CLSNAME>
+     <CMPNAME>GET_IMAGE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Image using filename</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WDA_IMAGO_SERVICES</CLSNAME>
+     <CMPNAME>GET_IMAGE_GALLERY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Images</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WDA_IMAGO_SERVICES</CLSNAME>
+     <CMPNAME>GET_SIMILAR_IMAGES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get similar Images</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WDA_IMAGO_SERVICES</CLSNAME>
+     <CMPNAME>LOAD_FILE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Load Similarity Score FIle</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WDA_IMAGO_SERVICES</CLSNAME>
+     <CMPNAME>MT_IMAGES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Images</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
